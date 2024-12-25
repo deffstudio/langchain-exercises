@@ -2,3 +2,6 @@ langchain
 python-dotenv
 langchain-openai
 ipykernel
+pypdf
+langchain-community
+langchain-core
