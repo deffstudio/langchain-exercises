@@ -5,3 +5,5 @@ ipykernel
 pypdf
 langchain-community
 langchain-core
+beautifulsoup4
+faiss-cpu
