@@ -8,3 +8,6 @@ langchain-core
 beautifulsoup4
 faiss-cpu
 streamlit
+arxiv
+wikipedia
+langchain-groq

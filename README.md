@@ -1,6 +1,6 @@
-# LangChain Simple LLM Application
+# LangChain Exercises Collection
 
-This project demonstrates how to build a simple LLM (Large Language Model) application using LangChain. The application translates text from English into another language using chat models and prompt templates.
+This repository contains a collection of exercises demonstrating various concepts and models using LangChain. Each exercise showcases different features and capabilities of LangChain, such as text translation, prompt templates, and streaming responses.
 
 ## Features
 
@@ -39,8 +39,8 @@ This project demonstrates how to build a simple LLM (Large Language Model) appli
 
 ## Usage
 
-- Follow the steps in the Jupyter Notebook to see how to use the language model and prompt templates.
-- Modify the prompt templates and messages to customize the application for different use cases.
+- Follow the steps in the Jupyter Notebooks to learn how to use different language models and prompt templates.
+- Modify the prompt templates and messages to customize the exercises for different use cases.
 
 ## License
 
