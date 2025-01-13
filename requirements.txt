@@ -12,3 +12,5 @@ arxiv
 wikipedia
 langchain-groq
 duckduckgo-search
+nltk
+ipykernel
